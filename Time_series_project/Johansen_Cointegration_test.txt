@@ -1,0 +1,17 @@
+Using the Trace Test, there are 1 cointegrating vectors at 
+    1 lags between the series
+
+Using the Trace Test, there are 1 cointegrating vectors at 
+    2 lags between the series
+
+Using the Trace Test, there are 1 cointegrating vectors at 
+    3 lags between the series
+
+Using the Trace Test, there are 1 cointegrating vectors at 
+    4 lags between the series
+
+Using the Trace Test, there are 0 cointegrating vectors at 
+    5 lags between the series
+
+Using the Trace Test, there are 1 cointegrating vectors at 
+    6 lags between the series

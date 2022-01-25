@@ -1,0 +1,7 @@
+https://towardsdatascience.com/apply-vecm-to-see-how-changes-in-commodity-price-drive-industrial-production-in-the-united-states-e3c1b2da932d
+
+https://towardsdatascience.com/a-quick-introduction-on-granger-causality-testing-for-time-series-analysis-7113dc9420d2
+
+https://github.com/ngaiyin1760/VECM-on-industrial-production-and-commodity-prices/blob/master/VECM_industrial%20production_commodities.py
+
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Granger%20Causality%20Test.ipynb
